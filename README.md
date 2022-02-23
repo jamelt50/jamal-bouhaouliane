@@ -32,5 +32,4 @@
 ![Fig;q](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)
 <br />
 
-
 [website]: https://jamalbouhaouliane.com
