@@ -4,7 +4,7 @@
 
 <img alt="Night Coding" width="400px" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="right"/>
 
-## I'm a Full stack Developer ! <img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
+## I'm a Full stack Developer ! 
 
 
 
