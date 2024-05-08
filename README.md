@@ -26,10 +26,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 
-### Softwares:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Fig;q](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)
-<br />
 
 [website]: https://jamalbouhaouliane.com
